@@ -4,3 +4,6 @@ git init
 open vs code with code .
 create a note file and add take note of the letter 'U'
 "git status" check state of our local repo 
+"git remote add origin git@github.com:saint8008/first-repo.git" to add remote repo to local
+"git branch -M main" to change to main branch
+"git push -u origin main" to push from local to remote
