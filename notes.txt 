@@ -1,0 +1,6 @@
+create a local directory called first-repo 
+cd into first repo 
+git init
+open vs code with code .
+create a note file and add take note of the letter 'U'
+"git status" check state of our local repo 
